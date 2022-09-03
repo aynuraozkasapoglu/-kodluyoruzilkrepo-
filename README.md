@@ -1,3 +1,6 @@
+
+
+
 # -kodluyoruzilkrepo-
  "Kodluyoruz Eğitimi kapsamında açtığım ilk repo" 
 
@@ -12,7 +15,7 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+https://app.patika.dev/sweay
 
 License
 MIT
